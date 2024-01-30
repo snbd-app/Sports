@@ -1,0 +1,87 @@
+{
+  "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
+  "sounds" : [
+    {
+      "name" : "Baseball Hit",
+      "color" : "285FF4",
+      "image" : "⚾",
+      "audioSource" : "[BaseballHitAndCrowdCheer](https://freesound.org/people/AmishRob/sounds/214989/) by [AmishRob](https://freesound.org/people/AmishRob) is licensed under [CC 4.0](https://creativecommons.org/licenses/by/4.0/)"
+    },
+    {
+      "type" : "wav",
+      "image" : "🥊",
+      "color" : "FF453A",
+      "name" : "Boxing Bell",
+      "audioSource" : "[Boxing Bell Signals](https://freesound.org/people/Herkules92/sounds/520998/) by [Herkules92](https://freesound.org/people/Herkules92) is licensed under [CC 0](http://creativecommons.org/publicdomain/zero/1.0/)"
+    },
+    {
+      "type" : "wav",
+      "color" : "30D158",
+      "image" : "👏",
+      "audioSource" : "[Crowd Cheer](https://freesound.org/people/FoolBoyMedia/sounds/397434/) by [FoolBoyMedia](https://freesound.org/people/FoolBoyMedia) is licensed under [CC 0](http://creativecommons.org/publicdomain/zero/1.0/)",
+      "name" : "Crowd Cheer"
+    },
+    {
+      "image" : "🏎",
+      "type" : "wav",
+      "audioSource" : "[F1 Single Car Pass](https://freesound.org/people/WebbFilmsUK/sounds/200810/) by [WebbFilmsUK](https://freesound.org/people/WebbFilmsUK) is licensed under [CC 4.0](https://creativecommons.org/licenses/by/4.0/)",
+      "name" : "Formula 1 Drive By",
+      "color" : "FF9F0A"
+    },
+    {
+      "type" : "wav",
+      "name" : "Ice Hockey Hit",
+      "color" : "999999",
+      "image" : "🏒",
+      "audioSource" : "[Hockey - Huge Body Check Hit Into Boards](https://freesound.org/people/producerdan/sounds/161996/) by [producerdan](https://freesound.org/people/producerdan) is licensed under [CC 0](http://creativecommons.org/publicdomain/zero/1.0/)"
+    },
+    {
+      "image" : "🏓",
+      "name" : "Ping Pong",
+      "color" : "BE38F3",
+      "audioSource" : "[Ping Pong](https://freesound.org/people/Aiwha/sounds/250697/) by [Aiwha](https://freesound.org/people/Aiwha) is licensed under [CC 4.0](https://creativecommons.org/licenses/by/4.0/)",
+      "type" : "wav"
+    },
+    {
+      "type" : "wav",
+      "image" : "😮‍💨",
+      "name" : "Ref Whistle",
+      "color" : "858585",
+      "audioSource" : "[referee_whistle_01](https://freesound.org/people/joedeshon/sounds/78508/) by [joedeshon](https://freesound.org/people/joedeshon) is licensed under [CC 4.0](https://creativecommons.org/licenses/by/4.0/)"
+    },
+    {
+      "type" : "wav",
+      "name" : "Scoreboard Buzzer",
+      "image" : "🚨",
+      "color" : "30D158",
+      "audioSource" : "[buzzer sportif](https://freesound.org/people/Na%C3%AFma/sounds/510026/) by [Naïma](https://freesound.org/people/Na%C3%AFma) is licensed under [CC 0](http://creativecommons.org/publicdomain/zero/1.0/)",
+      "image" : "speaker.wave.3.fill"
+    },
+    {
+      "name" : "Skateboard Trick",
+      "color" : "894C00",
+      "image" : "🛹",
+      "audioSource" : "[Skateboard jumping city ambience](https://freesound.org/people/murkertrer/sounds/168731/) by [murkertrer](https://freesound.org/people/murkertrer) is licensed under [CC 0](http://creativecommons.org/publicdomain/zero/1.0/)"
+    },
+    {
+      "color" : "0A84FF",
+      "type" : "wav",
+      "image" : "🏊",
+      "name" : "Swimming",
+      "audioSource" : "[Swimming](https://freesound.org/people/13FPanska_Marval_Lukas/sounds/379334/) by [13FPanska_Marval_Lukas](https://freesound.org/people/13FPanska_Marval_Lukas) is licensed under [CC 0](http://creativecommons.org/publicdomain/zero/1.0/)"
+    },
+    {
+      "color" : "FFD60A",
+      "type" : "wav",
+      "audioSource" : "[Vuvuzelas](https://freesound.org/people/juskiddink/sounds/100013/) by [juskiddink](https://freesound.org/people/juskiddink) is licensed under [CC 4.0](https://creativecommons.org/licenses/by/4.0/)",
+      "image" : "📯",
+      "name" : "Vuvuzelas"
+    }
+  ],
+  "color" : "FF453A",
+  "image" : "🥇",
+  "duration" : 121,
+  "size" : 24177662,
+  "name" : "Sports",
+  "description" : "Activities, games, players, and crowd reactions."
+}
